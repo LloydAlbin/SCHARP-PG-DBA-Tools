@@ -1,0 +1,8 @@
+directory = 'extension'
+default_version = '0.1'
+comment = 'SCHARP Generic Postgres Tools Extension for DBAs'
+encoding = 'UTF8'
+requires = 'plpgsql'
+superuser = true
+relocatable = false
+schema = 'tools'
